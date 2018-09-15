@@ -1,0 +1,104 @@
+a
+{
+  text-decoration: none;
+}
+.mainDiv
+{
+  border: 1px solid LightGray;
+  display: inline-block;
+}
+.headText
+{
+  font-size: 18px;
+  color: #5c605c;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+.lentaDiv
+{
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+.inlineMiddle
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.inlineTop
+{
+  display: inline-block;
+}
+.blogLink
+{
+  margin-left: 480px;
+  font-family: 'Open Sans', sans-serif;
+}
+.lenta
+{
+  margin-top: 10px;
+}
+.block
+{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 3px;
+}
+.imgInBlock
+{
+  border: 1px solid LightGray;
+  width: 300px;
+  padding: 1px;
+}
+.sharesBlock
+{
+  text-align: center;
+  width: 300px;
+  border-left: 1px solid LightGray;
+  text-align: center;
+  height: 280px;
+}
+.headText1
+{
+  margin-top: 20px;
+}
+.inputEmail
+{
+  border: 1px solid LightGray;
+  height: 20px;
+  width: 190px;
+}
+.subButton
+{
+  margin-top: 15px;
+  background-color: #7fb1ff;
+  color: White;
+  border: 1px solid #7fb1ff;
+  border-radius: 5px;
+  width: 120px;
+  height: 30px;
+}
+.subButton:hover
+{
+  transition: 0.3s;
+  box-shadow: inset 1px 1px 20px 0px LightBlue;
+}
+.socialText
+{
+  margin-top: 30px;
+}
+.socialLenta
+{
+  margin-top: 10px;
+}
+.inlineSoc
+{
+  display: inline-block;
+}
+.icon
+{
+  height: 30px;
+  width: 30px;
+  margin-right: 4px;
+}
