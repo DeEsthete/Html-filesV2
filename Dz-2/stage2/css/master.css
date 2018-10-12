@@ -1,0 +1,79 @@
+.mainDiv
+{
+  /* border: solid 1px black; */
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.mainPanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.leftInfo
+{
+  width: 350px;
+}
+.leftInfoHead
+{
+  font-size: 26px;
+}
+.leftInfoText
+{
+  margin-top: 20px;
+  font-size: 16px;
+  color: gray;
+}
+.leftInfoButton
+{
+  margin-top: 30px;
+  background: #0099ff;
+  border: none;
+  height: 40px;
+  width: 210px;
+  color: white;
+  font-size: 15px;
+}
+.rightTopPanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.rightBottomPanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.rightImageBox
+{
+  border: solid 1px #0099ff;
+  border-radius: 35px 35px 35px 35px;
+  background: #0099ff;
+  height: 30px;
+  width: 30px;
+  padding: 15px;
+  margin-left: 25px;
+}
+.rightImage
+{
+  height: 30px;
+  width: 30px;
+}
+.rightInfoBox
+{
+  margin-left: 5px;
+}
+.rightInfoHead
+{
+  font-size: 20px;
+}
+.rightInfoText
+{
+  margin-top: 10px;
+  font-size: 16px;
+  color: gray;
+  width: 280px;
+}
+.rightBottomInfo
+{
+  margin-top: 30px;
+}

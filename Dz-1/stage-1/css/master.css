@@ -1,0 +1,52 @@
+body
+{
+  text-align: center;
+}
+.mainDiv
+{
+  margin-top: 20px;
+}
+.rightDiv
+{
+  margin-left: 100px;
+}
+.panel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.name1
+{
+  font-size: 28px;
+  font-weight: bold;
+}
+.name2
+{
+  font-size: 28px;
+  color: violet;
+  font-style: italic;
+}
+.classVideo
+{
+  /* margin-top: 60px; */
+  width: 300px;
+  height: 290px;
+}
+.buttonClass
+{
+  border: 1px solid green;
+  background: green;
+  border-radius: 5px 5px 5px 5px;
+  height: 35px;
+  color: White;
+  margin-top: 15px;
+}
+.text2Class
+{
+  margin-top: 20px;
+}
+.imageClass
+{
+  height: 200px;
+  width: 300px;
+}
