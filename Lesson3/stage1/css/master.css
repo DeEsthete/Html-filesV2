@@ -1,0 +1,8 @@
+.box1
+{
+  background-color: violet;
+  color: white;
+  width: 250px;
+  box-shadow: 0px 0px 20px 5px black;
+  text-shadow: 3px 3px 20px black;
+}
