@@ -1,0 +1,18 @@
+
+.pic
+{
+  width: 600px;
+  position: relative;
+}
+
+.item-1
+{
+  background-color: red;
+  color: #FFF;
+  padding: 20px;
+  position: absolute;
+  /* top: 20px; */
+  bottom: -200px;
+  right: -100px;
+  transform: rotateZ(20deg);
+}

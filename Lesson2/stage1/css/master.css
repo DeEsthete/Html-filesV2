@@ -1,0 +1,23 @@
+.menu span
+{
+  color: Red;
+  font-family: 'SegoeUI', sans-serif;
+  font-size: 48px;
+}
+
+@media screen and (max-width:768px)
+{
+  .menu span
+  {
+    display: none;
+  }
+}
+
+@media screen and (max-width:480px)
+{
+  .menu span
+  {
+    font-size: 22px;
+    color: Green;
+  }
+}

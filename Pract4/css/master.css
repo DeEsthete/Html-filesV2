@@ -1,0 +1,103 @@
+body
+{
+  background-image: url('img/bg.jpg');
+}
+.container
+{
+  width: 750px;
+}
+.menu span
+{
+  color: Red;
+  font-family: 'SegoeUI', sans-serif;
+  font-size: 48px;
+}
+
+@media screen and (max-width:768px)
+{
+  .menu span
+  {
+    display: none;
+  }
+}
+
+@media screen and (max-width:480px)
+{
+  .menu span
+  {
+    font-size: 22px;
+    color: Green;
+  }
+}
+.headPanel
+{
+  vertical-align: bottom;
+}
+.headText
+{
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 48px;
+  color: white;
+}
+.headImage
+{
+  background-color: white;
+}
+.block
+{
+  margin-top: 40px;
+  margin-bottom: -20px;
+  margin-right: 20px;
+  background: white;
+  height: 250px;
+  width: 360px;
+}
+.blockTopDiv
+{
+  padding-left: 20px;
+  padding-top: 15px;
+}
+.blockHeadPanel
+{
+  display: inline-block;
+  vertical-align: bottom;
+}
+.blockImg
+{
+  width: 83px;
+  height: 83px;
+}
+.blockMainText
+{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.blockDesc
+{
+  margin-top: 12px;
+}
+.blockBottomDiv
+{
+  background-color: #ffc042;
+  margin-top: 15px;
+}
+.blockBottomImg
+{
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+}
+.blockBottomPanel
+{
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+  height: 65px;
+}
+.blockBottomText
+{
+  font-weight: bold;
+  margin-left: -13px;
+}

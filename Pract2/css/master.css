@@ -1,0 +1,198 @@
+body
+{
+  margin: 0;
+}
+.headPanelInline
+{
+  /* display: inline-block;
+  vertical-align: top; */
+}
+.headName
+{
+  margin-left: 80px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.imageInZoom
+{
+  width: 500px;
+}
+.headButtons
+{
+  margin-left: 1050px;
+}
+.headButton
+{
+  width: 100px;
+  height: 102px;
+  border: none;
+  background: none;
+  padding: 0px 0px;
+  margin-right: -5px
+}
+.headButton:focus
+{
+  outline: none!important;
+  /* border-bottom: 4px solid orange; */
+background-image: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,0.18) 100%), url('img/bottomLine.png');
+background-position: bottom;
+background-repeat: no-repeat;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#2e000000',GradientType=0 ); /* IE6-9 */
+}
+.headButtonRight
+{
+  border-right: 1px solid lightgray;
+  padding: 0px 0px;
+}
+.headPanel
+{
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+  padding-bottom: none;
+  height: 100px;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,000000+100&0+0,0.18+100 */
+background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 1%, rgba(0,0,0,0.18) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,0.18) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,0.18) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#2e000000',GradientType=0 ); /* IE6-9 */
+}
+.content
+{
+
+}
+.selectImageText
+{
+  margin-top: 40px;
+  margin-left: 630px;
+  font-size: 34px;
+  font-weight: bold;
+  width: 700px;
+  font-family: 'Raleway', sans-serif;
+}
+.changeImage
+{
+  margin-left: 633px;
+  margin-top: 20px;
+}
+.changeImagePanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.elementaryInput
+{
+  border: none;
+  width: 400px;
+  height: 30px;
+}
+.mainInput
+{
+  border: 1px solid lightgray;
+  border-radius: 3px 3px 3px 3px;
+  width: 500px;
+  height: 35px;
+  padding: 4px;
+}
+.inputButton
+{
+  background: #c1bfbf;
+  color: White;
+  border: none;
+  border-radius: 3px;
+  height: 35px;
+  width: 90px;
+}
+.changeImageButton
+{
+  border: none;
+  background-color: #ff7400;
+  color: White;
+  font-size: 20px;
+  height: 43px;
+  width: 180px;
+  margin-left: 10px;
+  border-radius: 5px 5px 5px 5px;
+
+}
+.gallery
+{
+  margin-top: 80px;
+  text-align: center;
+  width: 1100px;
+  margin-left: 400px;
+}
+.photoBlockInline
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.photoBlock
+{
+  border: 1px solid LightGray;
+  height: 265px;
+  width: 200px;
+  margin-left: 50px;
+  padding: 8px;
+  margin-top: 40px;
+  box-shadow: inset 0px -4px 10px 0px rgba(0,0,0,0.5);
+  padding: 10px;
+}
+.photoImage
+{
+  cursor: zoom-in;
+}
+.photoTextPanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.photoText
+{
+  text-align: left;
+}
+.photoStar
+{
+  margin-left: 22px;
+}
+.photoShare
+{
+  margin-top: 10px;
+  padding-top: 7px;
+  border-top: 1px solid lightGray;
+}
+.shareInline
+{
+  display: inline-block;
+  vertical-align: middle;
+}
+.shareText
+{
+  margin-left: 50px;
+  color: Gray;
+}
+.shareIcons
+{
+  margin-left: 10px;
+}
+.shareIcon
+{
+  height: 20px;
+}
+.shareIcon:hover
+{
+  content: url("img/tumblr_b.png");
+}
+.footer
+{
+  margin-top: 40px;
+  border-top: 1px solid lightGray;
+}
+.footerText
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 1600px;
+  width: 145px;
+  color: Gray;
+}

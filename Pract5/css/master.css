@@ -1,0 +1,58 @@
+body
+{
+  font-family: 'Anton', sans-serif;
+  font-size: 18px;
+}
+.block
+{
+  position: relative;
+}
+.textInImage
+{
+  position: relative;
+  font-weight: 900;
+  top: -39px;
+  left: 122px;
+}
+.textInImage1
+{
+  position: relative;
+  font-weight: 900;
+  top: -220px;
+  left: 200px;
+}
+.textInImage2
+{
+  position: relative;
+  font-weight: 900;
+  top: -85px;
+  left: 235px;
+}
+.textInImage3
+{
+  position: relative;
+  font-weight: 900;
+  top: -45px;
+  left: -55px;
+}
+.textInImage4
+{
+  position: relative;
+  font-weight: 900;
+  top: -27px;
+  left: 122px;
+}
+.textInImage5
+{
+  position: relative;
+  font-weight: 900;
+  top: -27px;
+  left: 122px;
+}
+.textInImage6
+{
+  position: relative;
+  font-weight: 900;
+  top: -27px;
+  left: 122px;
+}

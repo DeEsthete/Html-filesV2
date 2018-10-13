@@ -1,0 +1,74 @@
+body
+{
+}
+.mainDiv
+{
+  width: 1400px;
+  padding-left: 40px;
+  margin-left: 300px;
+}
+.headDiv
+{
+  display: inline-block;
+  vertical-align: center;
+}
+.lineText
+{
+  border-right: 3px solid Yellow;
+  width: 1px;
+  height: 23px;
+}
+.headText
+{
+  font-size: 36px;
+  font-weight: bold;
+}
+.headDescText
+{
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.contentDiv
+{
+  margin-top: 50px;
+  background-image: url('img/bg-3.png');
+  /* background-position: left 0px;
+  background-position: top 1px;
+  background-position: right: 1px;
+  background-position: bottom 1px; */
+  background-position: -365px -206px;
+}
+.infoPanel
+{
+  display: inline-block;
+  vertical-align: top;
+}
+.infoBlock
+{
+  text-align: center;
+  /* height: 300px; */
+  width: 250px;
+  margin-right: 40px;
+}
+.infoImage
+{
+  height: 100px;
+  width: 100px;
+}
+.infoHeadText
+{
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.infoDescText
+{
+  margin-top: 5px;
+}
+.coinsDiv
+{
+  margin-left: 359px;
+  margin-top: 140px;
+  width: 400px;
+}
